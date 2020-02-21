@@ -8,7 +8,7 @@ public class RestController2_1 {
 	
 	@GetMapping("/getname")
 	public String getName() {
-		return "hi this is nnd";
+		return "hi this is pavan";
 	}
 	@GetMapping("/getage")
 	public String getAge() {
